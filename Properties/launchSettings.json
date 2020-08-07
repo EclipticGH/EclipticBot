@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Voice Commands": {
+      "commandName": "Project",
+      "remoteDebugEnabled": false,
+      "sqlDebugging": false
+    }
+  }
+}
